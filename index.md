@@ -30,7 +30,7 @@ accessibility.
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" class="simple full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -55,15 +55,20 @@ for the public. To communicate your effort, consider providing a public
 accessibility statement that reflects your policy, goals, and
 achievements.
 
-#### Example of simple policy
+{::nomarkdown}
+{% include box.html type="start" title="Example of simple policy" class="example" %}
+{:/}
 
-> ACME Inc. is committed to ensuring that its website is accessible to
+ACME Inc. is committed to ensuring that its website is accessible to
 people with disabilities. All the pages on our website will meet W3C
 WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0, Level AA
 conformance. Any issues should be reported to <accessibility@example.com>.
 
-Reference standards {#reference}
--------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Reference standards {#reference}
 
 Reference specific standards in policy documents to ensure clear
 criteria for accessibility.The W3C Web Accessibility Initiative (WAI)
@@ -103,8 +108,7 @@ they become available.
 Referencing options are explained in [Referencing Guidelines and Other
 Technical Specifications](https://www.w3.org/WAI/intro/linking#trs).
 
-Define conformance levels {#conformance}
--------------------------
+## Define conformance levels {#conformance}
 
 W3C WAI guidelines provide three levels of conformance: A, AA, and AAA.
 The generally accepted level of conformance in many countries is Level
@@ -115,21 +119,32 @@ each referenced standard.
 
 ### Examples
 
-#### Simple example of referencing WCAG
+{::nomarkdown}
+{% include box.html type="start" title="Simple example of referencing WCAG" class="example" %}
+{:/}
 
-> ACME Inc. seeks to make sure our website conforms to W3C WAI
+ACME Inc. seeks to make sure our website conforms to W3C WAI
 [WCAG](/TR/WCAG20/) 2.0 Level AA.
 
-#### Example of reference to WCAG and ATAG
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-> At ACME Inc. we seek to ensure all of our websites and web applications,
+{::nomarkdown}
+{% include box.html type="start" title="Example of reference to WCAG and ATAG" class="example" %}
+{:/}
+
+At ACME Inc. we seek to ensure all of our websites and web applications,
 both customer-facing and for internal use, conform to all Level AA
 success criteria of W3C WAI [WCAG 2.0](/TR/WCAG20/). We also aim to
 ensure that our authoring tools conform to all Level AA criteria of
 [ATAG](/TR/ATAG20/).
 
-Define scope of policy {#scope}
-----------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Define scope of policy {#scope}
 
 Clearly state the scope of your policy, and how it applies to different
 parts of the websites in scope. This includes third-party, legacy, and
@@ -143,14 +158,19 @@ or for access to workplace, may impact your scope considerations.
 
 ### Examples
 
-#### Simple example of content scope
+{::nomarkdown}
+{% include box.html type="start" title="Simple example of content scope" class="example" %}
+{:/}
 
-> This policy applies to all new, updated, and existing web content on
+This policy applies to all new, updated, and existing web content on
 http://www.acme.inc/ and all content provided internally at
 http://intranet.acme.inc/.
 
-Set conformance milestones {#milestones}
---------------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Set conformance milestones {#milestones}
 
 For all items in scope of your policy, define clear and measureable
 milestones, including dates, by which each will be met. If the policy is
@@ -164,26 +184,43 @@ Clearly outline any details of this type of approach in your policy.
 
 ### Examples
 
-#### Simple example of conformance milestone
+{::nomarkdown}
+{% include box.html type="start" title="Simple example of conformance milestone" class="example" %}
+{:/}
 
-> By February 1, 20XX, ACME Inc's web content will meet WCAG 2.0, Level AA
+By February 1, 20XX, ACME Inc's web content will meet WCAG 2.0, Level AA
 conformance.
 
-#### Example of staged conformance milestones
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-> By November 1, 20XX, ACME Inc's websites will meet WCAG 2.0, Level A
+{::nomarkdown}
+{% include box.html type="start" title="Example of staged conformance milestones" class="example" %}
+{:/}
+
+By November 1, 20XX, ACME Inc's websites will meet WCAG 2.0, Level A
 conformance; and by May 1, 20XX web content will meet WCAG 2.0, Level AA
 conformance.
 
-#### Example of supplier milestone
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-> By June 1, 20XX, all vendors of content management systems (CMS) used by
+{::nomarkdown}
+{% include box.html type="start" title="Example of supplier milestone" class="example" %}
+{:/}
+
+By June 1, 20XX, all vendors of content management systems (CMS) used by
 ACME Inc's should provide information regarding their plans for ATAG 2.0
 conformance in future versions of their software. By June 1, 20XX ACME
 Inc. will preferentially purchase ATAG conformant authoring tools.
 
-Consider third-party content {#thirdparty}
-----------------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Consider third-party content {#thirdparty}
 
 Procured or syndicated third-party content needs to be considered as
 part of your accessibility policy. This is particularly relevant for
@@ -203,15 +240,20 @@ for more background.
 
 ### Examples
 
-#### Example including third-party content scope
+{::nomarkdown}
+{% include box.html type="start" title="Example including third-party content scope" class="example" %}
+{:/}
 
-> This policy applies to all web content produced or updated by ACME Inc.
+This policy applies to all web content produced or updated by ACME Inc.
 In addition, ACME Inc. will ensure third-party content providers are
 aware of our web accessibility policy. ACME Inc. will also favor
 providers based on their accessibility conformance claims.
 
-Define monitoring and review process {#monitor}
-------------------------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Define monitoring and review process {#monitor}
 
 Progress towards policy goals should be reviewed regularly. Any changes
 in timescale or milestones that have been met should be updated in the
@@ -228,30 +270,47 @@ is to be handled and responded to.
 
 ### Examples
 
-#### Example simple review policy
+{::nomarkdown}
+{% include box.html type="start" title="Example simple review policy" class="example" %}
+{:/}
 
-> All areas of the ACME Inc. website will be reviewed annually using the
+All areas of the ACME Inc. website will be reviewed annually using the
 process described at [Website Accessibility Conformance Evaluation
 Methodology](/TR/WCAG-EM/). Reviews are the responsibility of the ICT
 department. Accessibility checks will be incorporated into the
 publishing workflow for all new content.
 
-#### Example of feedback policy
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-> Each page of the website will include a link to a form allowing users to
+{::nomarkdown}
+{% include box.html type="start" title="Example of feedback policy" class="example" %}
+{:/}
+
+Each page of the website will include a link to a form allowing users to
 submit feedback on the site; this information will be compiled and
 considered during the review process. Any submitted feedback will be
 responded to within 48 hours.
 
-Example policies {#examples}
-----------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-### Example of simple policy
+## Example policies {#examples}
 
->  ACME Inc. is committed to ensuring the accessibility of its web content
+{::nomarkdown}
+{% include box.html type="start" title="Example of simple policy" class="example" %}
+{:/}
+
+ACME Inc. is committed to ensuring the accessibility of its web content
 to people with disabilities. All of the content on our website will meet
 W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0, Level
 AA conformance. Any issues should be reported to <accessibility@acme.inc>.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Comprehensive policies
 
@@ -261,33 +320,39 @@ responsible, specific exclusions.
 
 An [example comprehensive policy]({% link example.md %}) is provided.
 
-Policy template {#template}
----------------
+## Policy template {#template}
 
 In the template below, the <mark>[hints]</mark> in brackets are sections
 for you to complete.
 
-> <mark>[Organization name]</mark> is committed to ensuring accessibility of
+{::nomarkdown}
+{% include box.html type="start" title="Example Policy Template" class="example" %}
+{:/}
+
+<mark>[Organization name]</mark> is committed to ensuring accessibility of
 its website and intranet to people with disabilities. New and updated
 web content produced by our organization will meet <mark>[link to standard]</mark> <mark>[version number]</mark>, <mark>[level of conformance]</mark>, by <mark>[compliance date]</mark>.
->
-> Existing web content produced by our organization will meet our standard
+
+Existing web content produced by our organization will meet our standard
 by <mark>[existing content compliance date]</mark>.
->
-> Content provided for our site by third-party developers will meet
+
+Content provided for our site by third-party developers will meet
 <mark>[third-party content standard]</mark> <mark>[version number]</mark> by
 <mark>[third-party content compliance date]</mark>. This <mark>[does/does not]</mark> include user-generated content.
->
-> We aim to ensure that our authoring tools and processes meet
+
+We aim to ensure that our authoring tools and processes meet
 <mark>[authoring tools standard]</mark> <mark>[version number]</mark> by
 <mark>[authoring tools compliance date]</mark>. By <mark>[preferential purchasing date]</mark> we will preferentially purchase authoring tools that meet or exceed our web accessibility policy.
->
-> This policy will be reviewed <mark>[review period]</mark> on or before the
+
+This policy will be reviewed <mark>[review period]</mark> on or before the
 <mark>[policy review date]</mark>. This policy was last reviewed on
 <mark>[last review date]</mark>, by <mark>[reviewer]</mark>.
 
-Next steps: Maintaining your policy {#maintain}
------------------------------------
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Next steps: Maintaining your policy {#maintain}
 
 If your policy includes milestones and references to particular
 standards by version number, then review the policy regularly to ensure
@@ -300,8 +365,7 @@ new content or significant changes to the structure of your website.
 Changes in authoring tools or processes may also need to be thought
 about.
 
-Longer term: Strategic planning {#strategic}
--------------------------------
+## Longer term: Strategic planning {#strategic}
 
 An accessibility policy is one part of a broader strategic approach to
 accessibility. Making accessibility an integral part of your web

@@ -3,25 +3,21 @@ title: Developing Organizational Policies on Web Accessibility
 permalink: /plan/org-policies/
 redirect_from: /
 layout: default
-date: 2016-05-08
-people:
-  editorslabel: "Editor"
-  editors:
-    - name: Kevin White
-      url: https://www.w3.org/People/kevin/
-    - name: Shadi Abou-Zahra
-      url: https://www.w3.org/People/Shadi/
-  contributors:
-    - name: Judy Brewer
-      url: https://www.w3.org/People/Brewer/
-    - name: Shawn Lawton Henry
-      url: https://www.w3.org/People/Shawn/
-support:
-  - name: WAI-ACT Project, a project of the European Commission IST Programme
-    url: http://www.w3.org/WAI/ACT/
+
 ---
 
-This guide helps you develop a policy for creating, managing, and delivering accessible websites. Refer to [Planning and Managing  Web Accessibility](https://www.w3.org/WAI/impl/Overview) to learn about how such policies form part of a broader approach to implementing accessibility.
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page helps you develop a policy for creating, managing, and delivering accessible websites.
+
+To learn about how such policies form part of a broader approach to implementing accessibility, see [Planning and Managing Web
+Accessibility](https://www.w3.org/WAI/impl/Overview).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
@@ -47,7 +43,7 @@ Your organizational policy may not be suitable for the public if it is an intern
 {% include box.html type="start" title="Example of simple policy" class="example" %}
 {:/}
 
-ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0,  Level AA conformance. Report any issues to <accessibility@example.com>.
+ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0,  Level AA conformance. Report any issues to <accessibility@acme.inc>.
 
 {::nomarkdown}
 {% include box.html type="end" %}

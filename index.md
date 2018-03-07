@@ -1,9 +1,11 @@
 ---
 title: Developing Organizational Policies on Web Accessibility
 permalink: /plan/org-policies/
-redirect_from: /
 layout: default
-
+footer: >
+  <p><strong>Status:</strong> Updated 8 May 2016 (first published: October 2002)<br>
+  Editors: <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">participants</a> of the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.
+  </p>
 ---
 
 {::nomarkdown}

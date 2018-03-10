@@ -15,7 +15,7 @@ footer: >
 This page helps you develop a policy for creating, managing, and delivering accessible websites.
 
 To learn about how such policies form part of a broader approach to implementing accessibility, see [Planning and Managing Web
-Accessibility](https://www.w3.org/WAI/impl/Overview).
+Accessibility]({{ "/planning-and-managing/" | relative_url }}).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -253,4 +253,4 @@ You may need to adjust your policy's scope if you have new content. You may also
 
 An accessibility policy is one part of a broader strategic approach to accessibility. Making accessibility an integral part of your web development strategy is more cost effective and efficient than considering it in isolation. You can do several things to help your organization create more accessible websites as standard.
 
-[Planning and Managing Web Accessibility](https://www.w3.org/WAI/impl/Overview) outlines how to integrate accessibility throughout your web development. When you plan a redesign or updates, include accessibility from the start of the project. Accessibility is cheaper when tackled at the start of a project, rather than at the end. It will also take less time and resources to include accessibility from the get-go.
+[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }}) outlines how to integrate accessibility throughout your web development. When you plan a redesign or updates, include accessibility from the start of the project. Accessibility is cheaper when tackled at the start of a project, rather than at the end. It will also take less time and resources to include accessibility from the get-go.

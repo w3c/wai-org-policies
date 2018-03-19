@@ -1,6 +1,8 @@
 ---
 title: Developing Organizational Policies on Web Accessibility
 permalink: /plan/org-policies/
+github:
+  repository: w3c/wai-org-policies
 layout: default
 footer: >
   <p><strong>Status:</strong> Updated 8 May 2016 (first published: October 2002)<br>

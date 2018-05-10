@@ -6,7 +6,7 @@ github:
 layout: default
 footer: >
   <p><strong>Date:</strong> Updated 8 May 2016. First published October 2002.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 
 ---

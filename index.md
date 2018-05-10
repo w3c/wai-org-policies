@@ -1,6 +1,6 @@
 ---
 title: Developing Organizational Policies on Web Accessibility
-permalink: /plan/org-policies/
+permalink: /planning/org-policies/
 github:
   repository: w3c/wai-org-policies
 layout: default
@@ -220,7 +220,7 @@ ACME Inc. is committed to ensuring the accessibility of its web content to peopl
 
 More comprehensive policies may capture broader information. For example, how to implement the policy, or who or what departments are responsible, specific exclusions.
 
-An [example comprehensive policy]({{ "/plan/org-policies/example/" | relative_url }}) is provided.
+An [example comprehensive policy]({{ "/planning/org-policies/example/" | relative_url }}) is provided.
 
 ## Policy template {#template}
 

@@ -1,6 +1,6 @@
 ---
 title: Example of a Comprehensive Organizational Policy
-permalink: /plan/org-policies/example/
+permalink: /planning/org-policies/example/
 github:
   repository: w3c/wai-org-policies
 footer: >

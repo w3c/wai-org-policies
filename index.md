@@ -5,9 +5,9 @@ github:
   repository: w3c/wai-org-policies
 layout: default
 footer: >
-  <p><strong>Date:</strong> Updated 8 May 2016. First published October 2002.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
+  <p><strong>Date:</strong> Updated 5 June 2016. First published October 2002.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 
 ---
 
@@ -48,7 +48,7 @@ Your organizational policy may not be suitable for the public if it is an intern
 {% include box.html type="start" title="Example of simple policy" class="example" %}
 {:/}
 
-ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0,  Level AA conformance. Report any issues to <accessibility@acme.inc>.
+ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.1,  Level AA conformance. Report any issues to <accessibility@acme.inc>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,9 +58,9 @@ ACME Inc. is committed to ensuring that its website is accessible to people with
 
 Reference specific standards in policy documents to ensure clear criteria for accessibility. The W3C Web Accessibility Initiative (WAI) provides a set of accessibility standards that are commonly recognized by governments and organizations from around the world. These include:
 
--   **Web Content Accessibility Guidelines (WCAG) 2.0** applies to all web content and applications. This includes content on mobile, television,  and other delivery channels. The [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) provides more background.
--   **Authoring Tool Accessibility Guidelines (ATAG) 2.0** applies to websites that provide users the opportunity to generate content. For example, adding comments, posting to forums, or uploading images or videos. ATAG is also relevant if your organization provides tools, such as CMS's, for staff or customers to manage websites and content. The [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }}) provides more background.
--   **User Agent Accessibility Guidelines (UAAG) 2.0** applies when additional plugins are provided to deliver additional content. Media players are a good example of this. UAAG also applies when custom controls are used to provide non-standard functionality. UAAG may also be relevant where mobile applications deliver web content as part of the application. It may also be relevant to the procurement process if your organization provides browsers for staff. The [UAAG Overview]({{ "/standards-guidelines/uaag/" | relative_url }}) provides more background.
+-   **Web Content Accessibility Guidelines (WCAG)** applies to all web content and applications. This includes content on mobile, television, and other delivery channels. The [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) provides more background.
+-   **Authoring Tool Accessibility Guidelines (ATAG)** applies to websites that provide users the opportunity to generate content. For example, adding comments, posting to forums, or uploading images or videos. ATAG is also relevant if your organization provides tools, such as CMS's, for staff or customers to manage websites and content. The [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }}) provides more background.
+-   **User Agent Accessibility Guidelines (UAAG)** applies when additional plugins are provided to deliver additional content. Media players are a good example of this. UAAG also applies when custom controls are used to provide non-standard functionality. UAAG may also be relevant where mobile applications deliver web content as part of the application. It may also be relevant to the procurement process if your organization provides browsers for staff. The [UAAG Overview]({{ "/standards-guidelines/uaag/" | relative_url }}) provides more background.
 
 
 ### Referencing Approaches
@@ -81,7 +81,7 @@ W3C WAI guidelines provide three levels of conformance: A, AA, and AAA. The gene
 {:/}
 
 ACME Inc. seeks to make sure our website conforms to W3C WAI
-[WCAG](/TR/WCAG20/) 2.0 Level AA.
+[WCAG](/TR/WCAG20/) 2.1 Level AA.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -91,7 +91,7 @@ ACME Inc. seeks to make sure our website conforms to W3C WAI
 {% include box.html type="start" title="Example of reference to WCAG and ATAG" class="example" %}
 {:/}
 
-At ACME Inc. we seek to ensure all of our websites and web applications, conform to all Level AA success criteria of W3C WAI [WCAG 2.0](/TR/WCAG20/). This applies to both customer-facing and for internal use. We also aim to ensure that our authoring tools conform to all Level AA criteria of [ATAG](/TR/ATAG20/).
+At ACME Inc. we seek to ensure all of our websites and web applications, conform to all Level AA success criteria of W3C WAI [WCAG 2.1](/TR/WCAG21/). This applies to both customer-facing and for internal use. We also aim to ensure that our authoring tools conform to all Level AA criteria of [ATAG](/TR/ATAG/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -130,7 +130,7 @@ In some cases, a phased approach might be appropriate. First, quickly fix signif
 {% include box.html type="start" title="Simple example of conformance milestone" class="example" %}
 {:/}
 
-By February 1, 20XX, ACME Inc's web content will meet WCAG 2.0, Level AA conformance.
+By February 1, 20XX, ACME Inc's web content will meet WCAG 2.1, Level AA conformance.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -140,7 +140,7 @@ By February 1, 20XX, ACME Inc's web content will meet WCAG 2.0, Level AA conform
 {% include box.html type="start" title="Example of staged conformance milestones" class="example" %}
 {:/}
 
-By November 1, 20XX, ACME Inc's websites will meet WCAG 2.0, Level A conformance. By May 1, 20XX web content will meet WCAG 2.0, Level AA conformance.
+By November 1, 20XX, ACME Inc's websites will meet WCAG 2.1, Level A conformance. By May 1, 20XX web content will meet WCAG 2.1, Level AA conformance.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -160,7 +160,7 @@ By June 1, 20XX, all vendors of content management systems (CMS) used by ACME In
 
 Your accessibility policy needs to consider procured or syndicated third-party content.  This is particularly relevant for third-party content that provides essential parts of a website. For example, this could include credit card payment services, video streaming channels, or online mapping services.
 
-Site owners are responsible for ensuring accessibility or for providing accessible alternatives. This is true even if site owners don't have full control over such content and services. For example, social media feeds may need to be monitored or moderated to ensure accessibility. See the WCAG 2.0 conformance requirement for [complete processes](https://www.w3.org/TR/WCAG20/#cc3) and the concept of [conforming alternate version](https://www.w3.org/TR/WCAG20/#conforming-alternate-versiondef) for more background.
+Site owners are responsible for ensuring accessibility or for providing accessible alternatives. This is true even if site owners don't have full control over such content and services. For example, social media feeds may need to be monitored or moderated to ensure accessibility. See the WCAG 2.1 conformance requirement for [complete processes](https://www.w3.org/TR/WCAG21/#cc3) and the concept of [conforming alternate version](https://www.w3.org/TR/WCAG21/#conforming-alternate-versiondef) for more background.
 
 ### Examples
 
@@ -210,7 +210,7 @@ Each page of the website will include a link to a form allowing users to submit 
 {% include box.html type="start" title="Example of simple policy" class="example" %}
 {:/}
 
-ACME Inc. is committed to ensuring the accessibility of its web content to people with disabilities. All of the content on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0, Level AA conformance. Report any issues should to <accessibility@acme.inc>.
+ACME Inc. is committed to ensuring the accessibility of its web content to people with disabilities. All of the content on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.1, Level AA conformance. Report any issues should to <accessibility@acme.inc>.
 
 {::nomarkdown}
 {% include box.html type="end" %}

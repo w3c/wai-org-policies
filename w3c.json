@@ -1,5 +1,10 @@
 {
-      "group":      35532
-  ,   "contacts":   ["yatil", "slhenry"]
-  ,   "shortName":  "wai-org-policies"
-  }
+  "group": 35532,
+  "contacts": [
+    "yatil",
+    "slhenry"
+  ],
+  "shortName": "wai-org-policies",
+  "repo-type": "article",
+  "policy": "open"
+}

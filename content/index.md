@@ -1,13 +1,15 @@
 ---
 title: Developing Organizational Policies on Web Accessibility
 permalink: /planning/org-policies/
+ref: /planning/org-policies/
 github:
   repository: w3c/wai-org-policies
-layout: default
+  path: content/index.md
+lang: en
 footer: >
   <p><strong>Date:</strong> Updated 5 June 2016. First published October 2002.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from <a href="https://www.w3.org/WAI/ACT/"><abbr title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</abbr></a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 
 ---
 
@@ -18,7 +20,7 @@ footer: >
 This page helps you develop a policy for creating, managing, and delivering accessible websites.
 
 To learn about how such policies form part of a broader approach to implementing accessibility, see [Planning and Managing Web
-Accessibility]({{ "/planning-and-managing/" | relative_url }}).
+Accessibility](/planning-and-managing/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,9 +60,9 @@ ACME Inc. is committed to ensuring that its website is accessible to people with
 
 Reference specific standards in policy documents to ensure clear criteria for accessibility. The W3C Web Accessibility Initiative (WAI) provides a set of accessibility standards that are commonly recognized by governments and organizations from around the world. These include:
 
--   **Web Content Accessibility Guidelines (WCAG)** applies to all web content and applications. This includes content on mobile, television, and other delivery channels. The [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) provides more background.
--   **Authoring Tool Accessibility Guidelines (ATAG)** applies to websites that provide users the opportunity to generate content. For example, adding comments, posting to forums, or uploading images or videos. ATAG is also relevant if your organization provides tools, such as CMS's, for staff or customers to manage websites and content. The [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }}) provides more background.
--   **User Agent Accessibility Guidelines (UAAG)** applies when additional plugins are provided to deliver additional content. Media players are a good example of this. UAAG also applies when custom controls are used to provide non-standard functionality. UAAG may also be relevant where mobile applications deliver web content as part of the application. It may also be relevant to the procurement process if your organization provides browsers for staff. The [UAAG Overview]({{ "/standards-guidelines/uaag/" | relative_url }}) provides more background.
+-   **Web Content Accessibility Guidelines (WCAG)** applies to all web content and applications. This includes content on mobile, television, and other delivery channels. The [WCAG Overview](/standards-guidelines/wcag/) provides more background.
+-   **Authoring Tool Accessibility Guidelines (ATAG)** applies to websites that provide users the opportunity to generate content. For example, adding comments, posting to forums, or uploading images or videos. ATAG is also relevant if your organization provides tools, such as CMS's, for staff or customers to manage websites and content. The [ATAG Overview](/standards-guidelines/atag/) provides more background.
+-   **User Agent Accessibility Guidelines (UAAG)** applies when additional plugins are provided to deliver additional content. Media players are a good example of this. UAAG also applies when custom controls are used to provide non-standard functionality. UAAG may also be relevant where mobile applications deliver web content as part of the application. It may also be relevant to the procurement process if your organization provides browsers for staff. The [UAAG Overview](/standards-guidelines/uaag/) provides more background.
 
 
 ### Referencing Approaches
@@ -68,13 +70,13 @@ Reference specific standards in policy documents to ensure clear criteria for ac
 As technologies and standards continually evolve, it is important to
 keep policies current. The text of policies that include accessibility requirements tend to quickly become outdated. This introduces gaps between current accessibility standards and older policies. Ideally, a policy would reference the W3C/WAI standards. It should also define a mechanism to transition to newer versions of the standards when they become available.
 
-[Referencing Guidelines and Other Technical Specifications](https://www.w3.org/WAI/intro/linking#trs) Explains options relating to referencing.
+[Referencing Guidelines and Other Technical Specifications](/standards-guidelines/linking/#trs) Explains options relating to referencing.
 
 ## Define conformance levels {#conformance}
 
 W3C WAI guidelines provide three levels of conformance: A, AA, and AAA. The generally accepted level of conformance in many countries is Level AA. It is critical for the success of your policy to select a conformance level you can realistically achieve. Once selected, specify what level of conformance is to be achieved for each referenced standard.
 
-### Examples
+### Examples {#ex1}
 
 {::nomarkdown}
 {% include box.html type="start" title="Simple example of referencing WCAG" class="example" %}
@@ -103,7 +105,7 @@ Clearly state the scope of your policy, and how it applies to  different parts o
 
 Note that broader polices may impact your scope considerations. For example, public websites and services could be different from access to the workplace.
 
-### Examples
+### Examples {#ex2}
 
 {::nomarkdown}
 {% include box.html type="start" title="Simple example of content scope" class="example" %}
@@ -124,7 +126,7 @@ milestones, including dates, by which each will be met. If the policy is already
 
 In some cases, a phased approach might be appropriate. First, quickly fix significant accessibility barriers. Then implement fixes for other issues. You could do this as part of a planned maintenance update. Clearly outline any details of this type of approach in your policy.
 
-### Examples
+### Examples {#ex3}
 
 {::nomarkdown}
 {% include box.html type="start" title="Simple example of conformance milestone" class="example" %}
@@ -160,9 +162,9 @@ By June 1, 20XX, all vendors of content management systems (CMS) used by ACME In
 
 Your accessibility policy needs to consider procured or syndicated third-party content.  This is particularly relevant for third-party content that provides essential parts of a website. For example, this could include credit card payment services, video streaming channels, or online mapping services.
 
-Site owners are responsible for ensuring accessibility or for providing accessible alternatives. This is true even if site owners don't have full control over such content and services. For example, social media feeds may need to be monitored or moderated to ensure accessibility. See the WCAG 2.1 conformance requirement for [complete processes](https://www.w3.org/TR/WCAG21/#cc3) and the concept of [conforming alternate version](https://www.w3.org/TR/WCAG21/#conforming-alternate-versiondef) for more background.
+Site owners are responsible for ensuring accessibility or for providing accessible alternatives. This is true even if site owners don't have full control over such content and services. For example, social media feeds may need to be monitored or moderated to ensure accessibility. See the WCAG 2.1 conformance requirement for [complete processes](/TR/WCAG21/#cc3) and the concept of [conforming alternate version](/TR/WCAG21/#conforming-alternate-versiondef) for more background.
 
-### Examples
+### Examples {#ex4}
 
 {::nomarkdown}
 {% include box.html type="start" title="Example including third-party content scope" class="example" %}
@@ -182,7 +184,7 @@ To maintain the target level of accessibility, specify a process and schedule to
 
 Feedback from users who might find accessibility barriers can help you identify issues. Your policy should include information on how you will gather feedback. It should also include information how how your organization will handle and respond to feedback.
 
-### Examples
+### Examples {#ex5}
 
 {::nomarkdown}
 {% include box.html type="start" title="Example simple review policy" class="example" %}
@@ -220,7 +222,7 @@ ACME Inc. is committed to ensuring the accessibility of its web content to peopl
 
 More comprehensive policies may capture broader information. For example, how to implement the policy, or who or what departments are responsible, specific exclusions.
 
-An [example comprehensive policy]({{ "/planning/org-policies/example/" | relative_url }}) is provided.
+An [example comprehensive policy](/planning/org-policies/example/) is provided.
 
 ## Policy template {#template}
 
@@ -256,4 +258,4 @@ You may need to adjust your policy's scope if you have new content. You may also
 
 An accessibility policy is one part of a broader strategic approach to accessibility. Making accessibility an integral part of your web development strategy is more cost effective and efficient than considering it in isolation. You can do several things to help your organization create more accessible websites as standard.
 
-[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }}) outlines how to integrate accessibility throughout your web development. When you plan a redesign or updates, include accessibility from the start of the project. Accessibility is cheaper when tackled at the start of a project, rather than at the end. It will also take less time and resources to include accessibility from the get-go.
+[Planning and Managing Web Accessibility](/planning-and-managing/) outlines how to integrate accessibility throughout your web development. When you plan a redesign or updates, include accessibility from the start of the project. Accessibility is cheaper when tackled at the start of a project, rather than at the end. It will also take less time and resources to include accessibility from the get-go.

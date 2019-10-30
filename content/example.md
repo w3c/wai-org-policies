@@ -1,8 +1,11 @@
 ---
 title: Example of a Comprehensive Organizational Policy
 permalink: /planning/org-policies/example/
+ref: /planning/org-policies/example/
 github:
   repository: w3c/wai-org-policies
+  path: content/example.md
+lang: en
 footer: >
   <p><strong>Status:</strong> Updated 8 May 2016 (first published: October 2002)<br>
   Editors: <a href="/People/#kevin">Kevin White</a> and <a href="/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="/People/Brewer/">Judy Brewer</a>, <a href="/People/Shawn/">Shawn Lawton Henry</a>, and <a href="/WAI/EO/EOWG-members">participants</a> of the <a href="/WAI/EO/">Education and Outreach Working Group</a>. Updated with support from <a href="/WAI/ACT/" shape="rect"><acronym title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</acronym></a>, a project of the European Commission <acronym title="Information Society Technologies">IST</acronym> Programme.

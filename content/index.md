@@ -103,7 +103,7 @@ At ACME Inc. we seek to ensure all of our websites and web applications, conform
 
 Clearly state the scope of your policy, and how it applies to  different parts of the websites in scope. This includes third-party, legacy, and mobile content. It also applies to applications provided as part of these websites. Your policy may apply to websites internal to the organization, such as intranets, and to websites for external audiences. It also includes the tools used to create and to access your website.
 
-Note that broader polices may impact your scope considerations. For example, public websites and services could be different from access to the workplace.
+Note that broader policies may impact your scope considerations. For example, public websites and services could be different from access to the workplace.
 
 ### Examples {#ex2}
 

@@ -1,11 +1,15 @@
 ---
 title: Developing Organizational Policies on Web Accessibility
+
+lang: en
 permalink: /planning/org-policies/
-ref: /planning/org-policies/
 github:
   repository: w3c/wai-org-policies
   path: content/index.md
-lang: en
+last_updated: 2016-06-05
+
+ref: /planning/org-policies/   # translators don't change this
+
 footer: >
   <p><strong>Date:</strong> Updated 5 June 2016. First published October 2002.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/#kevin">Kevin White</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>

@@ -186,7 +186,7 @@ Regularly review progress towards policy goals. Update the policy when there are
 
 To maintain the target level of accessibility, specify a process and schedule to review content and tools in scope.
 
-Feedback from users who might find accessibility barriers can help you identify issues. Your policy should include information on how you will gather feedback. It should also include information how how your organization will handle and respond to feedback.
+Feedback from users who might find accessibility barriers can help you identify issues. Your policy should include information on how you will gather feedback. It should also include information on how your organization will handle and respond to feedback.
 
 ### Examples {#ex5}
 

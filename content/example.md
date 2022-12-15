@@ -89,7 +89,7 @@ footer: >
 ## 3. Need for policy
 
 1.  The June 2011 [World Health Organization (WHO) Report on
-    Disability](http://www.who.int/disabilities/world_report/2011/en/index.html)
+    Disability](https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability)
     estimated that there are a billion people with disabilities. Many of
     these disabilities can affect access to information technologies,
     and/or can benefit from the use of information technologies

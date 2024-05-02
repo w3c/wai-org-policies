@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eafbd7be-a80b-45cf-8600-7348b0f6ce78/deploy-status)](https://app.netlify.com/sites/wai-org-policies/deploys)
+> [!IMPORTANT]
+> This repository has been archived 2 May 2024.
+>
+> [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/planning/org-policies/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
